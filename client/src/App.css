@@ -27,3 +27,7 @@ header p {
   font-size: 1.1rem;
   opacity: 0.9;
 }
+
+main {
+  padding-bottom: 2rem;
+}

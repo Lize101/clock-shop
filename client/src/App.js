@@ -1,4 +1,5 @@
 import './App.css';
+import ProductList from './components/ProductList'
 
 function App() {
   return (
@@ -7,6 +8,9 @@ function App() {
         <h1>⏰ Clock Shop</h1>
         <p>Welcome to our clock e-commerce site!</p>
       </header>
+      <main>
+        <ProductList />
+      </main>
     </div>
   );
 }
